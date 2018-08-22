@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="常用Jar包">
+    <CLASSES>
+      <root url="jar://E:/apache-tomcat-8.5.32/lib/jstl-1.2.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.5.32/lib/jsp-api.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.5.32/lib/servlet-api.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.5.32/lib/sitemesh-2.4.2.jar!/" />
+      <root url="file://E:/apache-tomcat-8.5.32" />
+      <root url="file://E:/apache-tomcat-8.5.32/lib" />
+      <root url="jar://E:/apache-tomcat-8.5.32/lib/jackson-databind-2.5.0.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.5.32/lib/jackson-core-2.5.0.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.5.32/lib/jackson-annotations-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/apache-tomcat-8.5.32/webapps/docs/appdev/sample/src" />
+      <root url="file://E:/apache-tomcat-8.5.32/webapps/examples/WEB-INF/classes" />
+      <root url="file://E:/apache-tomcat-8.5.32/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://E:/apache-tomcat-8.5.32/webapps/examples/jsp/plugin/applet" />
+    </SOURCES>
+    <jarDirectory url="file://E:/apache-tomcat-8.5.32/lib" recursive="false" />
+  </library>
+</component>
